@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product Support Engineer
 ------------------------
 
-At this moment I am learning programming in a university. Using the C# progrraming language and .NET Framework. Momentarily it is not connected to my daily job as I am a hobby programmer, but would like to extend my skills to the professional world of developing.
+At this moment I am learning programming in a university. Using the C# programming language and .NET Framework. Momentarily it is not connected to my daily job as I am a hobby programmer, but would like to extend my skills to the professional world of developing.
 
 * 🌍  I'm based in Budapest
 * ✉️  You can contact me at [leventelazar89@gmail.com](mailto:leventelazar89@gmail.com)
